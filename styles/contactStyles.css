@@ -170,7 +170,7 @@ textarea {
   textarea {
     width: 25vw; /* Largura fixa para textarea */
   }
-}abc
+}
 
 /* Estilos específicos para telas com largura máxima de 805px */
 @media screen and (max-width: 805px) {
@@ -181,7 +181,7 @@ textarea {
     right: -220px; /* Posicionamento horizontal */
     top: 140px; /* Posicionamento vertical */
   }
- 
+
   .contactBackground a {
     position: relative; /* Define uma posição relativa para os links */
     left: 120px; /* Move os links para a direita */
